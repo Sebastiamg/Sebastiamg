@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi my name is [Michael Ortiz](https://github.com/Sebastiamg)
 
 <!--
 **Sebastiamg/Sebastiamg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
