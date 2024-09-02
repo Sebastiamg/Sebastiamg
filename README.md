@@ -1,16 +1,24 @@
-## Hi my name is [Michael Ortiz](https://github.com/Sebastiamg)
+# 👉 Hi my name is [Michael Ortiz](https://github.com/Sebastiamg) 👈
 
-<!--
-**Sebastiamg/Sebastiamg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤠 I’m a Software Software Developer
+## 🤫 I like to learn and reforce tecnologies and enjoy with videogames in my free time
+## 🌚 ¿What I currently doing?
+- I’m currently learning mid React level
+- I’m looking to collaborate on frontend projects
+## ☀️ Technologies I am good at
+- Html
+- Javascript / Typescript
+- Css
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- Angular
+- React Native
+- TailwindCss
+
+<br />
+
+- Docker
+- Postgres
+- NestJS
